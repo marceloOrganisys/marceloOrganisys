@@ -4,6 +4,6 @@
 - 🚀 I like to colaborate with others
 - ❄ I don't like cold weather
 
-See more info below
+![](hello.gif)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marceloOrganisys&count_private=true&theme=dracula&show_icons=true&hide_border=true&show_owner=true)
+
